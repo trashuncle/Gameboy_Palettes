@@ -1,6 +1,6 @@
 # TrashUncle's Gameboy Palettes
 Additional Palettes for GameBoy MiSTer FPGA core, based on various pictures I've found online that pleased me.<BR>
-All previews are using the Handheld Dot Matrix preset as well as the Drop Shadow setting turned on.
+All previews are using the Handheld Dot Matrix preset, as well as the Drop Shadow setting turned on.
 
 
 TU DMG Bright.gbp<br>
