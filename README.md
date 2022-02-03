@@ -14,6 +14,18 @@ TU DMG Weak.gbp<br>
 TU DMG Weak Alt.gbp<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20DMG%20Weak%20Alt.png" width="560" height="505"><br><br>
 
+TU GBP Bright.gbpp<br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20GBP%20Bright.png" width="560" height="505"><br><br>
+
+TU GBP Clean.gbp<br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20GBP%20Clean.png" width="560" height="505"><br><br>
+
+TU GBP Weak.gbp<br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20GBP%20Weak.png" width="560" height="505"><br><br>
+
+TU GBP Weak Alt.gbp<br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20GBP%20Weak%20Alt.png" width="560" height="505"><br><br>
+
 TU Orange Crush.gbp<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Orange%20Crush.png" width="560" height="505"><br><br>
 
