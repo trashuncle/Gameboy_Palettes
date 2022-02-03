@@ -3,7 +3,7 @@ Additional Palettes for GameBoy MiSTer FPGA core, based on various pictures I've
 
 
 TU DMG Bright.gbp
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20DMG%20Bright.png">
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20DMG%20Bright.png" width="560" height="505">
 
 TU DMG Clean.gbp
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20DMG%20Clean.png">
