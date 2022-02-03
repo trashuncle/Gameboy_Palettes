@@ -63,7 +63,7 @@ To use, place the Text files into the Shadow_Masks folder on your SD card<br><br
 TU DMG Weak.gbp + Nintendo Game Boy (Soft).txt<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/GB%20Rounded%20%2B%20Weak%20DMG.png"><br><br>
   
-GB Rounded + TU GBP Weak Alt.txt<br>
+TU GBP Weak Alt.gbp + Nintendo Game Boy Rounded.txt<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/GB%20Rounded%20%2B%20GBP%20Weak%20Alt.png"><br><br>
   
 TU Orange Crush.gbp + Red Pinball Dot Matrix.txt<br>
