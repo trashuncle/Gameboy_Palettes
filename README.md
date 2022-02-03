@@ -1,7 +1,7 @@
 # TrashUncle's Gameboy Palettes
 Additional Palettes for GameBoy MiSTer FPGA core, based on various pictures I've found online that pleased me.<BR>
   
-To use on MiSTer FPGA, place in the Games/Gameboy/palettes directory on the SD card then load from the Custom Palette Menu. <BR><BR>
+To use on MiSTer FPGA, place in the Games/Gameboy/palettes directory on the SD card then load from the Custom Palette Menu. <BR><BR><br>
 All previews are using the Handheld Dot Matrix preset, as well as the Drop Shadow setting turned on.
 
 
@@ -51,7 +51,7 @@ TU Strawberry Crush.gbp<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Strawberry%20Crush.png" width="560" height="505"><br><br>
   
 TU Paisley Park.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Paisley%20Park.png" width="560" height="505"><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Paisley%20Park.png" width="560" height="505"><br><br><br>
 
 
   
