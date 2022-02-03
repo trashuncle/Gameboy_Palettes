@@ -35,6 +35,9 @@ TU Light Clean.gbp<br>
 
 TU Light Dark.gbp<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Light%20Dark.png" width="560" height="505"><br><br>
+  
+TU Light Idealized.gbp<br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Light%20Idealized.png" width="560" height="505"><br><br>
 
 TU Orange Crush.gbp<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Orange%20Crush.png" width="560" height="505"><br><br>
