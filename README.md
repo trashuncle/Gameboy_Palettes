@@ -17,4 +17,4 @@ TU DMG Weak Alt.gbp<br>
 TU Orange Crush.gbp<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Orange%20Crush.png" width="560" height="505"><br><br>
 
-To use on MiSTer FPGA, place in the Games/Gameboy/palettes directory on the SD card.
+To use on MiSTer FPGA, place in the Games/Gameboy/palettes directory on the SD card then load from the Custom Palette Menu.
