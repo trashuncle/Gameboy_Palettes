@@ -14,7 +14,7 @@ TU DMG Weak.gbp<br>
 TU DMG Weak Alt.gbp<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20DMG%20Weak%20Alt.png" width="560" height="505"><br><br>
 
-TU GBP Bright.gbpp<br>
+TU GBP Bright.gbp<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20GBP%20Bright.png" width="560" height="505"><br><br>
 
 TU GBP Clean.gbp<br>
