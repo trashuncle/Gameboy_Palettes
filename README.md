@@ -42,6 +42,9 @@ TU Light Idealized.gbp<br>
 TU Orange Crush.gbp<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Orange%20Crush.png" width="560" height="505"><br><br>
   
+TU Grape Crush.gbp<br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Grape%20Crush.png" width="560" height="505"><br><br>
+  
 TU Paisley Park.gbp<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Paisley%20Park.png" width="560" height="505"><br><br>
 
