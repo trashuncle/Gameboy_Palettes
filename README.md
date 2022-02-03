@@ -6,52 +6,52 @@ All previews are using the Handheld Dot Matrix preset, as well as the Drop Shado
 
 
 TU DMG Bright.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20DMG%20Bright.png" width="560" height="505"><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20DMG%20Bright.png"><br><br>
 
 TU DMG Clean.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20DMG%20Clean.png" width="560" height="505"><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20DMG%20Clean.png"><br><br>
 
 TU DMG Weak.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20DMG%20Weak.png" width="560" height="505"><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20DMG%20Weak.png"><br><br>
 
 TU DMG Weak Alt.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20DMG%20Weak%20Alt.png" width="560" height="505"><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20DMG%20Weak%20Alt.png"><br><br>
 
 TU GBP Bright.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20GBP%20Bright.png" width="560" height="505"><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20GBP%20Bright.png"><br><br>
 
 TU GBP Clean.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20GBP%20Clean.png" width="560" height="505"><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20GBP%20Clean.png"><br><br>
 
 TU GBP Weak.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20GBP%20Weak.png" width="560" height="505"><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20GBP%20Weak.png"><br><br>
 
 TU GBP Weak Alt.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20GBP%20Weak%20Alt.png" width="560" height="505"><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20GBP%20Weak%20Alt.png"><br><br>
 
 TU Light Bright.gbpp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Light%20Bright.png" width="560" height="505"><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Light%20Bright.png"><br><br>
 
 TU Light Clean.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Light%20Clean.png" width="560" height="505"><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Light%20Clean.png"><br><br>
 
 TU Light Dark.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Light%20Dark.png" width="560" height="505"><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Light%20Dark.png"><br><br>
   
 TU Light Idealized.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Light%20Idealized.png" width="560" height="505"><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Light%20Idealized.png"><br><br>
 
 TU Orange Crush.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Orange%20Crush.png" width="560" height="505"><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Orange%20Crush.png"><br><br>
   
 TU Grape Crush.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Grape%20Crush.png" width="560" height="505"><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Grape%20Crush.png"><br><br>
   
 TU Strawberry Crush.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Strawberry%20Crush.png" width="560" height="505"><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Strawberry%20Crush.png"><br><br>
   
 TU Paisley Park.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Paisley%20Park.png" width="560" height="505"><br><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Paisley%20Park.png"><br><br><br>
 
 
   
@@ -71,5 +71,3 @@ TU Grape Crush.gbp + Blue Pinball Dot Matrix.txt<br>
   
 TU Strawberry Crush.gbp + Red Pinball Dot Matrix.txt<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/Strawberry%20Crush%20%2B%20Red%20Dot%20Matrix.png"><br><br>
-
-  
