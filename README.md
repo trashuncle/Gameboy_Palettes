@@ -45,6 +45,9 @@ TU Orange Crush.gbp<br>
 TU Grape Crush.gbp<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Grape%20Crush.png" width="560" height="505"><br><br>
   
+TU Strawberry Crush.gbp<br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Strawberry%20Crush.png" width="560" height="505"><br><br>
+  
 TU Paisley Park.gbp<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Paisley%20Park.png" width="560" height="505"><br><br>
 
@@ -63,5 +66,8 @@ TU Orange Crush.gbp + Red Pinball Dot Matrix.txt<br>
   
 TU Grape Crush.gbp + Blue Pinball Dot Matrix.txt<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/Grape%20Crush%20%2B%20Blue%20Dot%20Matrix.png"><br><br>
+  
+TU Strawberry Crush.gbp + Red Pinball Dot Matrix.txt<br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/Strawberry%20Crush%20%2B%20Red%20Dot%20Matrix.png"><br><br>
 
   
