@@ -1,5 +1,5 @@
 ####
-# Name: Nintendo Game Boy Rounded
+# Name: Nintendo Game Boy (Soft)
 # Author: TrashUncle
 # Type: LCD
 # Genre: Handheld
