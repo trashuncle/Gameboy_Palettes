@@ -51,7 +51,7 @@ TU Strawberry Crush.gbp<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Strawberry%20Crush.png"><br><br>
   
 TU Paisley Park.gbp<br>
-<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Paisley%20Park.png"><br><br><br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Paisley%20Park.png"><br><br>
   
 TU Quicksilver.gbp<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Quicksilver.png"><br><br><br>
@@ -68,6 +68,9 @@ TU DMG Weak.gbp + Nintendo Game Boy (Soft).txt<br>
   
 TU GBP Weak Alt.gbp + Nintendo Game Boy Rounded.txt<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/GB%20Rounded%20%2B%20GBP%20Weak%20Alt.png"><br><br>
+  
+TU Quicksilver.gbp + Nintendo GameBoy AA.txt<br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/Quicksilver%20%2B%20GB%20AA.png"><br><br>
   
 TU Orange Crush.gbp + Red Pinball Dot Matrix.txt<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/Red%20Dot%20Matrix%20%2B%20Orange%20Crush.png"><br><br>
