@@ -52,6 +52,9 @@ TU Strawberry Crush.gbp<br>
   
 TU Paisley Park.gbp<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Paisley%20Park.png"><br><br><br>
+  
+TU Quicksilver.gbp<br>
+<img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/TU%20Quicksilver.png"><br><br><br>
 
 
   
