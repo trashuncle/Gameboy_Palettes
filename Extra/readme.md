@@ -8,7 +8,7 @@ Also check this:<BR>
 Pallette: TU Lavender Crush (Invert Setting on)<BR>
 H & V: LCD_Effect__Blur_03_HV<BR>
 Gamma: None<BR>
-Mask: Magenta Pinball Dot Matrix Realistic<BR><BR><BR>
+Mask: Magenta Pinball Dot Matrix Realistic<BR><BR>
 
 The H&V filter gives the effect of unlit dots.  Try this with other Crush Palettes and Dot Matrix Mask combos!<BR>
 
