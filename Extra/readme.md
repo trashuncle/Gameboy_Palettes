@@ -3,7 +3,7 @@ Extra masks and Palettes<BR>
 I haven't had time to do the screenshots for these ones or add them to the pack, they are included here for now.<BR><BR>
 
 
-Also check this:<BR><BR>
+Also check this:<BR>
 
 Pallette: TU Lavender Crush (Invert Setting on)<BR>
 H & V: LCD_Effect__Blur_03_HV<BR>
