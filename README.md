@@ -63,7 +63,7 @@ You can download it here: https://github.com/trashuncle/Gameboy_Palettes/raw/mai
   
 To use, place the Text files into the Shadow_Masks folder on your SD card<br><br>
 
-TU DMG Weak.gbp + Nintendo Game Boy (Soft).txt<br>
+TU DMG Weak.gbp + Nintendo Game Boy Soft.txt<br>
 <img src="https://raw.githubusercontent.com/trashuncle/Gameboy_Palettes/main/TU%20Palette%20previews/GB%20Rounded%20%2B%20Weak%20DMG.png"><br><br>
   
 TU GBP Weak Alt.gbp + Nintendo Game Boy Rounded.txt<br>
